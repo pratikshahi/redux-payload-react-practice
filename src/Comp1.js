@@ -8,6 +8,7 @@ function Comp1() {
     <div className="ca">
       <h1>Name in gamesReducer is: {gamesobj.gameName}</h1>
       <h1>Name of player is :{gamesobj.playerName}</h1>
+      <h1>Name of user is : {gamesobj.userName}</h1>
     </div>
   );
 }
